@@ -4,3 +4,7 @@ def add_one(number):
 
 def sum(x, y):
     return x + y
+
+
+def sub_one(number):
+    return number - 1
